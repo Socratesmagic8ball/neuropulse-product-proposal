@@ -79,17 +79,6 @@ With the working prototype complete, the next phase focuses on shrinking the har
 
 To make cognitive tracking engaging and enjoyable for children, alternative screen modes can be selected through the settings menu:
 
-```
-  [ Minimalist Mode ]           [ Goofy Emoji / Character Mode ]           [ Gamified Session Stopwatch ]
-+---------------------+       +----------------------------------+       +------------------------------+
-|                     |       |              (O.o)               |       | ⏱️ 14:25                     |
-|     ( Soft Blue )   |       |      "Brain Power Charging!"     |       | Focus Score: 85%             |
-|   Smooth Gradient   |       |        [ Animated Mascot ]       |       | 🔥 5-Min Concentration Streak|
-|                     |       |                                  |       | ⭐ +120 Focus XP             |
-+---------------------+       +----------------------------------+       +------------------------------+
-
-
-```
 
 * **Goofy Character & Dynamic Emojis**: An animated mascot evolves based on real-time brainwave activity. When the user enters a steady focus zone, the character puts on "brain-power glasses" or powers up with glowing aura effects. If the user drifts into a sleepy state, the avatar gently snoozes or shows sleepy emojis (`😴`, `🤔`, `⚡`).
 
