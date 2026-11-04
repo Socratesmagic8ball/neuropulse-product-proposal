@@ -80,7 +80,7 @@ With the working prototype complete, the next phase focuses on shrinking the har
 To make cognitive tracking engaging and enjoyable for children, alternative screen modes can be selected through the settings menu:
 
 
-* **Goofy Character & Dynamic Emojis**: An animated mascot evolves based on real-time brainwave activity. When the user enters a steady focus zone, the character puts on "brain-power glasses" or powers up with glowing aura effects. If the user drifts into a sleepy state, the avatar gently snoozes or shows sleepy emojis (`😴`, `🤔`, `⚡`).
+* **Goofy Character & Dynamic Emojis**: An animated mascot evolves based on real-time brainwave activity. When the user enters a steady focus zone, the character puts on "brain-power glasses" or powers up with glowing aura effects. If the user drifts into a sleepy state, the avatar gently snoozes or shows sleepy emojis.
 
 * **Interactive Activity Stopwatch**: An on-screen timer tracks active problem-solving sessions (e.g., 15-minute study sprints). It records exact focus streaks and displays a cute "Cognitive Battery" bar showing how much mental energy was sustained throughout the session.
 
